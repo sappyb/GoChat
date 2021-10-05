@@ -11,3 +11,14 @@ We are finetuning the chatbots on domain speficity as required for our learning 
 
 3. Anaconda package manager(optional)
 
+# Setup
+```shell
+(yourenvname) user@xyz:~/git-repos/GoChat$ pip install -r requirements.txt -e .
+```
+
+or
+
+```shell
+(yourenvname) user@xyz:~/$ pip install -r requirements.txt -e "path/to/GoChat"
+```
+
