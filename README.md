@@ -6,6 +6,7 @@ We are finetuning the chatbots on domain speficity as required for our learning 
 # Requirements
 
 Tensorflow 1.0
+
 gpt2-simple
 
 Anaconda package manager(optional)
