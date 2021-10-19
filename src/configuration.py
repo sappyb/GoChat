@@ -8,9 +8,9 @@ class Configuration():
     def __init__(self, **kwargs):
         pass
     
-    def read_config():
+    def read_config(self):
         defaultConfigPath = Path(Path(__file__).parent, 'default.yaml')
         with open(defaultConfigPath , 'r') as defaultConfigFile:
-            defaultConf = load(defaultConfigFile, Loader=Loader)    
+            defaultConf = load(defaultConfigFile, Loader=Loader)
+        #print(defaultConf)
         return defaultConf
-

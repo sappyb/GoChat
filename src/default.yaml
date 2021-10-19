@@ -2,7 +2,7 @@ writer:
     cleanup: True
     defaultFilePath: ''
 reader:
-    defaultFilePath: ''
+    defaultFilePath: '/Users/saptarshibhowmik/Desktop/train.txt'
 model:
     savePath: ''
     params:
