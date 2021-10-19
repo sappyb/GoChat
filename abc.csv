@@ -1,0 +1,169 @@
+speaker,utterance,dialogue_start,source
+T,"what I need for you to do right now is, every one of you get out a blank sheet of paper.",T,TIMSS-Math_1
+S,"ashley, can I have a piece of paper?",F,TIMSS-Math_1
+T,just put it right on the table back there.,F,TIMSS-Math_1
+S,thank you.,F,TIMSS-Math_1
+T,thank you Sarah.,F,TIMSS-Math_1
+T,"don't leave without it, all right.",F,TIMSS-Math_1
+S,okay.,F,TIMSS-Math_1
+T,okay.,F,TIMSS-Math_1
+T,listen closely now. everybody ready?,T,TIMSS-Math_1
+S,yep.,F,TIMSS-Math_1
+T,can someone raise their hand and tell me what's one obvious thing that I can do to graph? nick?,T,TIMSS-Math_1
+S,the slope.,F,TIMSS-Math_1
+T,use the slope with the?,F,TIMSS-Math_1
+S,y intercept and X intercept.,F,TIMSS-Math_1
+T,"y intercept. that's probably the way you'll probably want to do it, right Nick?",F,TIMSS-Math_1
+S,yeah.,F,TIMSS-Math_1
+T,"is there another way, though? Robert?",T,TIMSS-Math_1
+S,"use the, um, tables.",F,TIMSS-Math_1
+T,"right, to make a table for the equation, right? and then plot the points from the table. so go ahead and get started.",F,TIMSS-Math_1
+T,"Nick, question?",T,TIMSS-Math_1
+S,"where's this...oh, right here?",F,TIMSS-Math_1
+T,yeah. you're going to graph on that. that is your result for your group.,F,TIMSS-Math_1
+S,"so everybody has to do one graph, right?",F,TIMSS-Math_1
+T,right.,F,TIMSS-Math_1
+T,"so while he's doing that, let's get started on this, guys. what are we going to do?",T,TIMSS-Math_1
+S,do we write this on our piece of paper?,F,TIMSS-Math_1
+T,yeah.,F,TIMSS-Math_1
+S,"oh, okay.",F,TIMSS-Math_1
+T,all right?,T,TIMSS-Math_1
+S,"Mister Ormsby, you know, when you put, like, a one in here, would you go like, times plus...",F,TIMSS-Math_1
+T,"ah, see, so now you've already forgotten, right? first of all, zeros are our favorite number, right?",F,TIMSS-Math_1
+S,yeah.,F,TIMSS-Math_1
+T,you put in zero. two thirds times zero is what?,F,TIMSS-Math_1
+S,zero.,F,TIMSS-Math_1
+T,plus eight is?,F,TIMSS-Math_1
+S,eight.,F,TIMSS-Math_1
+T,eight.,F,TIMSS-Math_1
+T,"now because this fraction is a two thirds, do you remember what I told you what numbers you should pick now?",T,TIMSS-Math_1
+S,"um, threes.",F,TIMSS-Math_1
+T,"all right. so maybe zero, three and six would be good numbers to try with this one, right? that way you don't have to worry about fractions and mixed numbers.",T,TIMSS-Math_1
+S,okay.,F,TIMSS-Math_1
+T,okay?,F,TIMSS-Math_1
+T,all right.,T,TIMSS-Math_1
+S,"Mister, I forgot how to do these again. Like how do you do X and Y?",F,TIMSS-Math_1
+T,"okay, so now wait a minute. you want to make a table then, right? the idea again is, to make our points we just pick any number we want for x. We can do that, right? Jenna?",F,TIMSS-Math_1
+S,"yeah. so it was zero, one, and two",F,TIMSS-Math_1
+T,"ah, that's true, except because this is a two thirds fraction +...",F,TIMSS-Math_1
+S,you want to pick three as like +/.,F,TIMSS-Math_1
+T,exactly.,F,TIMSS-Math_1
+S,"negative three, zero and three.",F,TIMSS-Math_1
+T,"right, and if you want to just do zero, three, six and stay away from negatives, you can do that too.",F,TIMSS-Math_1
+T,all right?,T,TIMSS-Math_1
+S,"I got six in the middle. so, zero, three, six.",F,TIMSS-Math_1
+T,right.,F,TIMSS-Math_1
+S,okay.,F,TIMSS-Math_1
+T,and you think you can do it on your own now?,F,TIMSS-Math_1
+T,you just want to be on the camera.,T,TIMSS-Math_1
+S,"no, that's not true.",F,TIMSS-Math_1
+T,"okay, we're going to put in zero here, right?",T,TIMSS-Math_1
+S,okay.,F,TIMSS-Math_1
+T,what's two thirds times zero?,F,TIMSS-Math_1
+S,zero.,F,TIMSS-Math_1
+T,"everybody watching, right? plus eight is?",F,TIMSS-Math_1
+S,eight.,F,TIMSS-Math_1
+T,eight.,F,TIMSS-Math_1
+S,so three times two is...,F,TIMSS-Math_1
+T,six.,F,TIMSS-Math_1
+S,divided by three is two.,F,TIMSS-Math_1
+T,three is two.,F,TIMSS-Math_1
+S,plus eight is...,F,TIMSS-Math_1
+T,eight is?,F,TIMSS-Math_1
+S,ten. okay I get it. thank you Mister Ormsby.,F,TIMSS-Math_1
+T,okay. good job.,F,TIMSS-Math_1
+S,"all right, so, okay, this is what I did. I put three negative three, zero, three and six, all right?",F,TIMSS-Math_1
+T,okay.,F,TIMSS-Math_1
+T,how come you have your table backwards? I've never done that before.,T,TIMSS-Math_1
+S,"well, I did that.",F,TIMSS-Math_1
+T,okay.,F,TIMSS-Math_1
+S,it's easier this way.,F,TIMSS-Math_1
+T,"all right, if you say so.",F,TIMSS-Math_1
+S,"anyways, I put negative three, so, I put two thirds and then that.",T,TIMSS-Math_1
+T,times negative three.,F,TIMSS-Math_1
+S,"yeah. negative three goes in the top, right?",F,TIMSS-Math_1
+T,"right. well, negative three, you remember, is negative three over one.",F,TIMSS-Math_1
+T,there you go.,T,TIMSS-Math_1
+S,"so it's a one and a one. but that's a negative still, right?",F,TIMSS-Math_1
+T,right. that's still a negative there.,F,TIMSS-Math_1
+S,so it's negative two?,F,TIMSS-Math_1
+T,plus eight is?,F,TIMSS-Math_1
+S,six.,F,TIMSS-Math_1
+T,yeah.,F,TIMSS-Math_1
+S,"see, I knew that.",F,TIMSS-Math_1
+T,"so negative three is six, zero is eight. now, try a positive three.",T,TIMSS-Math_1
+S,"cause they're both positive so... two third so, three, one and...oh.",F,TIMSS-Math_1
+T,okay.,F,TIMSS-Math_1
+S,"one one, and then three, eight, eleven.",F,TIMSS-Math_1
+T,"no, wait a minute.",F,TIMSS-Math_1
+S,two... one is... and five.,F,TIMSS-Math_1
+T,"two plus... wait a minute, no, you were timesing it.",F,TIMSS-Math_1
+S,oh. it's ten.,F,TIMSS-Math_1
+T,it's ten.,F,TIMSS-Math_1
+T,and then six is twelve.,T,TIMSS-Math_1
+S,it's six then ten and twelve.,F,TIMSS-Math_1
+S,okay.,F,TIMSS-Math_1
+T,all right.,F,TIMSS-Math_1
+T,yes?,T,TIMSS-Math_1
+S,"all right, I just totally forgot um, you know, how to do the graph.",F,TIMSS-Math_1
+T,"okay, now what I liked how you at least remember to use multiples.",F,TIMSS-Math_1
+T,"like this one, let's try this one right here. All right?",T,TIMSS-Math_1
+S,okay.,F,TIMSS-Math_1
+T,"you remembered to use fives, but let's try zero. if I put in zero there, what's three fifths times zero?",F,TIMSS-Math_1
+S,um... zero?,F,TIMSS-Math_1
+T,right. minus ten?,F,TIMSS-Math_1
+S,is negative ten?,F,TIMSS-Math_1
+T,so put a negative ten there.,F,TIMSS-Math_1
+T,"so now you're going to try five in there, right?",T,TIMSS-Math_1
+S,okay.,F,TIMSS-Math_1
+T,so just write a little five there so you can mentally see it. so if I do three times five that's?,F,TIMSS-Math_1
+S,fifteen.,F,TIMSS-Math_1
+T,"now remember I'm going to divide by the five, which gives me?",T,TIMSS-Math_1
+S,three.,F,TIMSS-Math_1
+T,minus ten.,F,TIMSS-Math_1
+S,negative seven.,F,TIMSS-Math_1
+T,good job.,F,TIMSS-Math_1
+T,I think you got it now.,T,TIMSS-Math_1
+S,"oh, okay.",F,TIMSS-Math_1
+T,all right.,F,TIMSS-Math_1
+T,finish it up.,T,TIMSS-Math_1
+S,Mister Ormsby?,F,TIMSS-Math_1
+T,all right.,F,TIMSS-Math_1
+S,"uh, how many points do you want us to plot? three or four?",F,TIMSS-Math_1
+T,"well that's a very good question. obviously, how many points do I really need to make a line?",F,TIMSS-Math_1
+S,two.,F,TIMSS-Math_1
+T,two.,F,TIMSS-Math_1
+T,right? but just to make sure...,T,TIMSS-Math_1
+S,three.,F,TIMSS-Math_1
+T,plot at least three points.,F,TIMSS-Math_1
+S,okay.,F,TIMSS-Math_1
+T,that way if they're all in a line you know you did it right.,F,TIMSS-Math_1
+T,okay?,T,TIMSS-Math_1
+S,Mister Ormsby.,F,TIMSS-Math_1
+T,yeah?,F,TIMSS-Math_1
+S,I made the graph.,F,TIMSS-Math_1
+T,"use the whole paper, man.",F,TIMSS-Math_1
+T,okay?,T,TIMSS-Math_1
+S,don't we have to graph every single one of those?,F,TIMSS-Math_1
+T,"yeah, you're going to graph these five. that's why I want you to use the whole paper. make a big coordinate system.",F,TIMSS-Math_1
+S,oh.,F,TIMSS-Math_1
+T,"as a matter of fact, let me give you a fresh one to save you some time.",F,TIMSS-Math_1
+S,"oh, okay. all right, now I get it.",F,TIMSS-Math_1
+T,okay.,F,TIMSS-Math_1
+T,"use the whole coordinate system, that way all the lines are nicely spaced out and everything.",T,TIMSS-Math_1
+S,all right.,F,TIMSS-Math_1
+T,okay?,T,TIMSS-Math_1
+S,we're out of space.,F,TIMSS-Math_1
+T,"okay, well how do you want to graph it? using an x y table?",F,TIMSS-Math_1
+S,yeah.,F,TIMSS-Math_1
+T,or do you want to learn how to use slope and y intercept?,F,TIMSS-Math_1
+S,x and y table.,F,TIMSS-Math_1
+T,okay.,F,TIMSS-Math_1
+T,"see, if you work with Chris side by side, then you can compare answers. right?",T,TIMSS-Math_1
+S,mm hm.,F,TIMSS-Math_1
+T,don't just rely on Chris here.,F,TIMSS-Math_1
+T,"The idea is I'm gonna plug in any values I really want for x and figure out my corresponding y. But because this fraction is a two thirds, what numbers should I possibly use that would make it easier for me?",T,TIMSS-Math_1
+S,three.,F,TIMSS-Math_1
+T,"numbers based on three. or zero, three, six, would be good enough, right?",F,TIMSS-Math_1
+S,yeah.,F,TIMSS-Math_1
+T,that way you can get that graph down. okay?,F,TIMSS-Math_1
